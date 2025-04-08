@@ -1,0 +1,11 @@
+{"_id":{"$oid":"67f559b7ec4c769920c0d38d"},"title":"Sons Of The Forest","discount":"-60%","old_price":"28,99€","new_price":"11,59€","source":"sales","created_at":{"$date":{"$numberLong":"1744139729036"}}}
+{"_id":{"$oid":"67f55a1f07584ba399fd95ec"},"title":"Baldur's Gate 3","discount":"-20%","old_price":"59,99€","new_price":"47,99€","source":"sales","created_at":{"$date":{"$numberLong":"1744139831342"}}}
+{"_id":{"$oid":"67f55a1f07584ba399fd95ed"},"title":"Red Dead Redemption 2","discount":"-75%","old_price":"59,99€","new_price":"14,99€","source":"sales","created_at":{"$date":{"$numberLong":"1744139831415"}}}{"_id":{"$oid":"67f55a1f07584ba399fd95ee"},"title":"Devil May Cry 5","discount":"-75%","old_price":"29,99€","new_price":"7,49€","source":"sales","created_at":{"$date":{"$numberLong":"1744139831510"}}}
+{"_id":{"$oid":"67f55a1f07584ba399fd95ef"},"title":"Devil May Cry HD Collection","discount":"-67%","old_price":"29,99€","new_price":"9,89€","source":"sales","created_at":{"$date":{"$numberLong":"1744139831572"}}}
+{"_id":{"$oid":"67f55a1f07584ba399fd95f0"},"title":"Sons Of The Forest","discount":"-60%","old_price":"28,99€","new_price":"11,59€","source":"sales","created_at":{"$date":{"$numberLong":"1744139831643"}}}
+{"_id":{"$oid":"67f55a5407584ba399fd95f1"},"title":"Devil May Cry 5","price":{"$numberDouble":"7.49"},"source":"search","created_at":{"$date":{"$numberLong":"1744139890248"}}}
+{"_id":{"$oid":"67f5974899d7b5d502a5284a"},"title":"Cult of the Lamb","price":{"$numberDouble":"11.49"},"source":"search","created_at":{"$date":{"$numberLong":"1744155494057"}}}
+{"_id":{"$oid":"67f5976e99d7b5d502a5284b"},"title":"Borderlands 3","price":{"$numberDouble":"5.99"},"source":"search","created_at":{"$date":{"$numberLong":"1744155531765"}}}
+{"_id":{"$oid":"67f5978c99d7b5d502a5284c"},"title":"DmC: Devil May Cry","price":{"$numberDouble":"7.49"},"source":"search","created_at":{"$date":{"$numberLong":"1744155562224"}}}
+{"_id":{"$oid":"67f597a499d7b5d502a5284d"},"title":"AI LIMIT","price":{"$numberDouble":"31.49"},"source":"search","created_at":{"$date":{"$numberLong":"1744155585720"}}}
+{"_id":{"$oid":"67f597bb99d7b5d502a5284e"},"title":"TEKKEN 8","price":{"$numberDouble":"48.99"},"source":"search","created_at":{"$date":{"$numberLong":"1744155608910"}}}
