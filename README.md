@@ -26,3 +26,11 @@ DISCLAIMER
 
 Despues de que el proyecto sea aceptado y corregido sera eliminado del repositorio
 
+
+--------------------
+VIDEOS
+--------------------
+
+Para ver los videos es necesario estar logeado con una cuenta de la UOC
+VIDEO_1: https://drive.google.com/file/d/1vf__qwKrssyhapwJTvJw2XNJEg8QbYVP/view?usp=sharing
+VIDEO_2: https://drive.google.com/file/d/1IiRg_cDrH-3udFGSNRtM1pHDuEyQ1XGq/view?usp=sharing
